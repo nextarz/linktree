@@ -16,11 +16,4 @@
   <img src="https://skillicons.dev/icons?i=js,ts,python,go,react,next,nodejs,mongodb,postgres,docker,git,github" />
 </p>
 
-### Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/Facebook-blue?logo=Facebook)](https://www.facebook.com/share/1BENMhf1Yw/)  
-[![Instagram](https://img.shields.io/badge/Gmail-white?logo=Gmail)](mailto:doritosenak07@gmail.com)  
-
 ---
-
-> “Greetings all .”
