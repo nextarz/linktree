@@ -16,4 +16,3 @@
   <img src="https://skillicons.dev/icons?i=js,ts,python,go,react,next,nodejs,mongodb,postgres,docker,git,github" />
 </p>
 
----
