@@ -6,8 +6,8 @@
 
 ### 🤵 about me
 
-- 🌹 I like coding with: `JavaScript`, `Python`
-- 🍜 my hobby: `coding`, `reading manga`, `watching anime`
+- 🌾 I like coding with: `JavaScript`, `Python`
+- ☕ my hobby: `coding`, `reading manga`, `watching anime`
 - 📝 want to learn: `C++`
 
 ### 🔥 Tech Stack
