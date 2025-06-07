@@ -18,4 +18,4 @@
 
 ## ♥️ My wife:
 
-| ![](https://raw.githubusercontent.com/nextarz/images/photo1.jpg) | ![](https://raw.githubusercontent.com/nextarz/images/photo2.jpg) |
+| ![](https://raw.githubusercontent.com/nextarz/nextarz/refs/heads/main/images/photo1.jpg) | ![](https://raw.githubusercontent.com/nextarz/nextarz/refs/heads/main/images/photo2.jpg) |
