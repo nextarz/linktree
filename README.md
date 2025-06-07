@@ -1,6 +1,6 @@
 <h1 align="center"> Hi my name is Edo 👋</h1>
 
-<p align="center" width="100"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=pengen+menjadi+programmer+handal;namun+enggan+mengoding"></p>
+<p align="center" width="50"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=pengen+menjadi+programmer+handal;namun+enggan+mengoding"></p>
 
 ### 🤵 About Me
 
