@@ -20,6 +20,6 @@
 <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/nextarz/nextarz/refs/heads/main/images/photo1.jpg" width="200"/></td>
-    <td><img src="https://raw.githubusercontent.com/nextarz/nextarz/refs/heads/main/images/photo3.jpg" width="200"/></td>
+    <td><img src="https://raw.githubusercontent.com/nextarz/nextarz/refs/heads/main/images/photo3.jpg" width="200" border-radius="20"/></td>
   </tr>
 </table>
