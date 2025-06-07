@@ -4,15 +4,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=pengen+menjadi+programmer+handal;namun+enggan+mengoding" />
 </p>
 
-### 🤵 About Me
+## 🤵 About Me
 
 - 🌾 I like coding with: `JavaScript`, `Python`
 - ☕ my hobby: `coding`, `reading manga`, `watching anime`
 - 📝 want to learn: `C++`
 
-### 🔥 Tech Stack
+## 🔥 Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,python,html,css,git,github,chatgpt" />
 </p>
 
+## ♥️ My wife:
+
+| ![](https://raw.githubusercontent.com/namalu/repo/main/images/photo1.jpg) | ![](https://raw.githubusercontent.com/namalu/repo/main/images/photo2.jpg) |
