@@ -18,4 +18,4 @@
 
 ## ♥️ My wife:
 
-| ![](https://raw.githubusercontent.com/namalu/repo/main/images/photo1.jpg) | ![](https://raw.githubusercontent.com/namalu/repo/main/images/photo2.jpg) |
+| ![](https://raw.githubusercontent.com/nextarz/repo/main/images/photo1.jpg) | ![](https://raw.githubusercontent.com/nextarz/repo/main/images/photo2.jpg) |
