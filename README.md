@@ -17,5 +17,9 @@
 </p>
 
 ## ♥️ My wife:
-
-| ![](https://raw.githubusercontent.com/nextarz/nextarz/refs/heads/main/images/photo1.jpg) | ![](https://raw.githubusercontent.com/nextarz/nextarz/refs/heads/main/images/photo2.jpg) |
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/nextarz/nextarz/refs/heads/main/images/photo1.jpg" width="200"/></td>
+    <td><img src="https://raw.githubusercontent.com/nextarz/nextarz/refs/heads/main/images/photo2.jpg" width="200"/></td>
+  </tr>
+</table>
