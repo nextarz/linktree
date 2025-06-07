@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=pengen+menjadi+programmer+handal;namun+enggan+mengoding" />
 </p>
 
-### 🤵 about me
+### 🤵 About Me
 
 - 🌾 I like coding with: `JavaScript`, `Python`
 - ☕ my hobby: `coding`, `reading manga`, `watching anime`
