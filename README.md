@@ -1,7 +1,7 @@
 <h1 align="center"> Hi my name is Edo 👋</h1>
 
 <div align="center"> <i>
-"Pengen menjadi programmer handal, namun enggan mengoding"
+"Ingin menjadi programmer handal, namun enggan mengoding"
 </i> </div>
 
 ### 🤵 About Me
