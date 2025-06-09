@@ -1,6 +1,8 @@
 <h1 align="center"> Hi my name is Edo 👋</h1>
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=pengen+menjadi+programmer+handal;namun+enggan+mengoding"></p>
+<div align="center"> <i>
+"Pengen menjadi programmer handal, namun enggan mengoding"
+</i> </div>
 
 ### 🤵 About Me
 
