@@ -1,4 +1,4 @@
-<h1 align="center">konnichiwa 👋</h1>
+<h1 align="center">konnichiwa. My name is Abu, nice to meet you👋</h1>
 <p align="center"><i>"Ingin menjadi programmer handal, namun enggan mengoding"</i></p>
 
 **🧠 About Me**
