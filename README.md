@@ -1,4 +1,4 @@
-<h3 align="center">My nam is Abu, nice to meet you 👋</h3>
+<h2 align="center">I'm just an ordinary person</h2>
 <p align="center"><i>"Ingin menjadi programmer handal, namun enggan mengoding"</i></p>
 
 **🧠 About Me**
