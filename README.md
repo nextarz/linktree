@@ -52,4 +52,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nextarz&show_icons=true&theme=tokyonight"/>
 </p>---->
 
-> _"Ketika kode error, mending scroll fesbuk."_ – **Edo Ketumbar**
+> _"Ketika kode error, mending scroll fesbuk."_ – **Abu Kentucky**
