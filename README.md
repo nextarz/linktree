@@ -1,4 +1,4 @@
-<h1 align="center">welcome to my profile 👋</h1>
+<h1 align="center">konnichiwa 👋</h1>
 <p align="center"><i>"Ingin menjadi programmer handal, namun enggan mengoding"</i></p>
 
 **🧠 About Me**
@@ -44,7 +44,7 @@
 
 </p>
 
-## 📊 GitHub Stats
+**📊 GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nextarz&theme=tokyonight"/>
