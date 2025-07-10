@@ -44,12 +44,12 @@
 
 </p>
 
-**📊 GitHub Stats**
+<!----**📊 GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nextarz&theme=tokyonight"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=nextarz&show_icons=true&theme=tokyonight"/>
-</p>
+</p>---->
 
 > _"Ketika kode error, mending scroll fesbuk."_ – **Edo Ketumbar**
