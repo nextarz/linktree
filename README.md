@@ -1,4 +1,4 @@
-<h3 align="center">Hajimemashite Watashi wa Abu desu Yoroshiku onegaishimasu 👋</h3>
+<h3 align="center">My nam is Abu, nice to meet you 👋</h3>
 <p align="center"><i>"Ingin menjadi programmer handal, namun enggan mengoding"</i></p>
 
 **🧠 About Me**
