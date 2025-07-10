@@ -27,8 +27,9 @@
 **❤️ My Wife (2D Only)**
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/62/33/13/623313be7e77d3d0ed35db7ef79d9b3c.jpg" width="160"/>
-  <img src="https://i.pinimg.com/originals/00/d5/ed/00d5edcfa2e918e986ea02c173594865.jpg" width="160"/>
+  <img src="https://i.pinimg.com/originals/62/33/13/623313be7e77d3d0ed35db7ef79d9b3c.jpg" width="150"/>
+  <img src="https://i.pinimg.com/originals/00/d5/ed/00d5edcfa2e918e986ea02c173594865.jpg" width="150"/>
+  <img src="https://i.pinimg.com/originals/60/e9/8d/60e98db06f62df245e0e6b8be9fd6f12.jpg" width="150"/>
 </p>
 
 ## 📊 GitHub Stats
