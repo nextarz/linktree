@@ -1,11 +1,19 @@
-<h2 align="center">I'm just an ordinary person</h2>
+<h3 align="center">Hello, I'm Abu Kentucky 👋</h3>
 <p align="center"><i>"Ingin menjadi programmer handal, namun enggan mengoding"</i></p>
+<p align="center">
+  <a href="https://facebook.com/abukentucky" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/abu_kentucky" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
 **🧠 About Me**
 
 - 🧑‍💻 Full-time **anime enjoyer**, part-time **coding**
-- 🧪 Learning `TypeScript` pengen nyoba buat bot
-- 🎯 Fokus ke: `JavaScript`, `Python`, `HTML/CSS`
+- 🧪 Learning `TypeScript` want to try making a bot 
+- 🎯 focus on: `JavaScript`, `Python`, `HTML/CSS`
 
 **🔧 Tech Stack**
 
@@ -20,8 +28,8 @@
 
 **☕ Hobbies**
 
-- 📚 Baca manga
-- 📺 Nonton anime
+- 📚 reading manga
+- 📺 watching anime
 - 🧠 scroll fesbuk
 
 **❤️ My Wife**
@@ -50,4 +58,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nextarz&show_icons=true&theme=tokyonight"/>
 </p>
 
+**☕ Cihuyy**
 > _"Ketika kode error, mending scroll fesbuk."_ – **Abu Kentucky**
