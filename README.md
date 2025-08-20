@@ -11,7 +11,7 @@
 
 **🧠 About Me**
 
-- 🧑‍💻 Full-time **anime enjoyer**, part-time **coding**
+- 🧑‍💻 Full time **anime enjoyer**, part time **coding**
 - 🧪 Learning `TypeScript` want to try making a bot 
 - 🎯 focus on: `JavaScript`, `Python`, `HTML/CSS`
 
