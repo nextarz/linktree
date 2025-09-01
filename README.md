@@ -1,7 +1,7 @@
 <h3 align="center">Hello, I'm Abu Kentucky 👋</h3>
 <p align="center"><i>"Ingin menjadi programmer handal, namun enggan mengoding"</i></p>
 <p align="center">
-  <a href="https://facebook.com/abukentucky" target="_blank">
+  <a href="https://facebook.com/abukentuckyy" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://instagram.com/abu_kentucky" target="_blank">
