@@ -1,4 +1,4 @@
-<h3 align="center">Hello, I'm Abu Kentucky 👋</h3>
+<h3 align="center">Hello, I'm Abu Khaisa 👋</h3>
 <p align="center"><i>"Ingin menjadi programmer handal, namun enggan mengoding"</i></p>
 <p align="center">
   <a href="https://facebook.com/abukentuckyy" target="_blank">
