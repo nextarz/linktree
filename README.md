@@ -9,8 +9,6 @@
   </a>
 </p>
 
-**📊 GitHub Stats**
-
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nextarz&show_icons=true&theme=tokyonight"/>
 </p>
