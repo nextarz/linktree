@@ -9,11 +9,6 @@
   </a>
 </p>
 
-**🧠 About Me**
-
-- 🧑‍💻 Full time **anime enjoyer**, part time **coding**
-- 🧪 Learning `TypeScript` want to try making a bot 
-- 🎯 focus on: `JavaScript`, `Python`, `HTML/CSS`
 
 **🔧 Tech Stack**
 
@@ -26,37 +21,8 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
-**☕ Hobbies**
-
-- 📚 reading manga
-- 📺 watching anime
-- 🧠 scroll fesbuk
-
-**❤️ My Wife**
-
-<p align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="images/image1.jpg" width="120"/><br/>
-    </td>
-    <td align="center">
-      <img src="images/image2.jpg" width="120"/><br/>
-    </td>
-    <td align="center">
-      <img src="images/image3.jpg" width="120"/><br/>
-    </td>
-  </tr>
-</table>
-
-</p>
-
 **📊 GitHub Stats**
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=nextarz&show_icons=true&theme=tokyonight"/>
 </p>
-
-**☕ Cihuyy**
-> _"Ketika kode error, mending scroll fesbuk."_ – **Abu Kentucky**
